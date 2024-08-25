@@ -5,7 +5,7 @@ set -e
 docker pull sudeepsarpe/simple-python-flask-app
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 sudeepsarpe/simple-python-flask-app
+docker run -d -p 6000:6000 sudeepsarpe/simple-python-flask-app
      
   
   
